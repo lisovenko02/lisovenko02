@@ -4,6 +4,7 @@
 - 👯 I am open to offers and collaborations.
 - 🌱 I'm currently learning anything that comes to hand.
 - 📫 How to reach me: vanyalisovenkoo@gmail.com or TG: @vanyalisovenko
+- 💼 My portfolio: https://my-portfolio-rho-lake-67.vercel.app/
 
 ## Tech Skills
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
