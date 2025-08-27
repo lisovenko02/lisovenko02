@@ -16,19 +16,21 @@
 
 <img align="left" alt="NextJS" width="32px" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" color="white"/>
 
-<img align="left" alt="Redux" width="32px" src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png"/>
+<img align="left" alt="Redux" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Redux.svg"/>
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Nest.js" width="32px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" />
+<img align="left" alt="Nest.js" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" />
 
-<img align="left" alt="AWS" width="32px" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-4v2f55fn.png" />
+<img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
 
-<img align="left" alt="vuejs" width="32px" src="https://static-00.iconduck.com/assets.00/vue-icon-512x439-f6q4zral.png" />
+<img align="left" alt="vuejs" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original-wordmark.svg" />
 
-<img align="left" alt="MongoDB" width="32px" src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" />
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mongodb/mongodb-original-wordmark.svg" />
 
-<img align="left" alt="MySQL" width="32px" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png" />
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/mysql-icon.svg" />
+
+<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
 
 <img align="left" alt="Prisma" width="32px" src="https://img.icons8.com/?size=512&id=zJh5Gyrd6ZKu&format=png" />
 
